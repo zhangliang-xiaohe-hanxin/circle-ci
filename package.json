@@ -1,0 +1,17 @@
+{
+  "name": "circle-ci",
+  "version": "1.0.0",
+  "description": "For test",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "ball",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
